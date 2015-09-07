@@ -1,0 +1,11 @@
+# Site settings
+title: Sångboken
+baseurl: "" # the subpath of your site, e.g. /blog/
+
+# Build settings
+markdown: kramdown
+
+collections:
+  songs:
+    output: true
+    permalink: /songs/:title/
