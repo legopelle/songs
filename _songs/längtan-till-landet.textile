@@ -2,6 +2,7 @@
 layout: song
 title: Längtan till landet
 category: svenskt
+permalink: /123456/
 ---
 
 *Vintern* rasat ut bland våra fjällar,

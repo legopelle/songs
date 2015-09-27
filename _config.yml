@@ -8,4 +8,4 @@ markdown: kramdown
 collections:
   songs:
     output: true
-    permalink: /songs/:title/
+    permalink: /:collection/:title/
